@@ -1,4 +1,4 @@
 code                        app/code/local/m4m/newslettercoupon/
 frontend/layout/*           app/design/frontend/base/default/layout/
 frontend/template/*         app/design/frontend/base/default/template/m4m-newslettercoupon
-m4m-newslettercoupon.xml    app/etc/modules/m4m-newslettercoupon.xml
+m4m_newslettercoupon.xml    app/etc/modules/m4m_newslettercoupon.xml

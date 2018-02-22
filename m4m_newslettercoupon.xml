@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+      <m4m_newslettercoupon>
+         <active>true</active>
+         <codePool>local</codePool>
+      </m4m_newslettercoupon>
+    </modules>
+</config>
