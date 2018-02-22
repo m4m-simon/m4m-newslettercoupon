@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <m4m_newslettercoupon>
+      <version>0.1.0</version>
+    </m4m_newslettercoupon>
+  </modules>
+  <frontend>
+    <routers>
+      <newslettercoupon>
+        <use>standard</use>
+        <args>
+          <module>m4m_newslettercoupon</module>
+          <frontName>newslettercoupon</frontName>
+        </args>
+      </newslettercoupon>
+    </routers>
+  </frontend>
+<admin>
+    <routers>
+      <newslettercoupon>
+        <use>admin</use>
+        <args>
+          <module>m4m_newslettercoupon</module>
+          <frontName>newslettercoupon</frontName>
+        </args>
+      </newslettercoupon>
+    </routers>
+</admin>
+</config>
