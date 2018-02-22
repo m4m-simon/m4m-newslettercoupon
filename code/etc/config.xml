@@ -7,24 +7,24 @@
   </modules>
   <frontend>
     <routers>
-      <newslettercoupon>
+      <m4m_newslettercoupon>
         <use>standard</use>
         <args>
           <module>m4m_newslettercoupon</module>
           <frontName>newslettercoupon</frontName>
         </args>
-      </newslettercoupon>
+      </m4m_newslettercoupon>
     </routers>
   </frontend>
 <admin>
     <routers>
-      <newslettercoupon>
+      <m4m_newslettercoupon>
         <use>admin</use>
         <args>
           <module>m4m_newslettercoupon</module>
           <frontName>newslettercoupon</frontName>
         </args>
-      </newslettercoupon>
+      </m4m_newslettercoupon>
     </routers>
 </admin>
 </config>
